@@ -348,7 +348,7 @@
       "properties": {
         "serverFarmId": "[parameters('HostingPlanName')]",
         "siteConfig": {
-          "linuxFxVersion": "DOCKER|cyberflying/aoai-web:latest"
+          "linuxFxVersion": "DOCKER|cyberflying/aoai-web:pgazcn"
         }
       }
     },
